@@ -1,0 +1,21 @@
+Package: picosfindr
+Title: Find PICOS terms in the pdf file of scientific papers.
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Lucas",
+             family = "Veras",
+             role = c("aut", "cre"),
+             email = "lucasdsveras@gmail.com",
+             comment = c(ORCID = "0000-0003-0562-5803")),
+      person(given = "Giorjines",
+             family = "Boppre",
+             role = c("aut"),
+             email = "giorjines_boppre@hotmail.com",
+             comment = c(ORCID = "0000-0003-2974-6343"))
+    )
+Description:
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
